@@ -1,2 +1,2 @@
-# find all animal in image
+# find all animals in image
 ![](animal.png)
